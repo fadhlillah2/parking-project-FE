@@ -1,7 +1,7 @@
 
-1) First clone this repository
+1)First clone this repository
 
-2) then just move to the directory related   
+2)Then just move to the directory related   
 
 3)run command  for setting up new npm package                 --> npm init
 
