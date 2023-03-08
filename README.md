@@ -11,5 +11,3 @@
 
 6)Accessing it in browser                                      http://localhost:3000
 
-7)To access this live just access the link:
-https://parking-slot-management-system.herokuapp.com/
